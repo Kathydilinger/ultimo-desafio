@@ -1,0 +1,22 @@
+#Hero-Section {
+    background-image: url("../img/lenguaje-programacion.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    }
+
+
+    #Mis-trabajos .image-top {
+        height: 350px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+      }
+
+.dimension{
+    width: 200px;
+    height: 200px;
+}
+.row{
+    align-content: center;
+}
